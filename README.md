@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Kaio! A passionate Data Science student from Brazil.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am seeking new challenges and new colleagues.
 </p>
 
 <!-- Dropdown -->
