@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Termax! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Kaio! A passionate Data Science student from Brazil.
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. have experience with PHP, Python, JavaScript, Data Analysis, Data visualization.
+  - 💬 I am 18 years old, currently living in Brazil. have experience with Next.js, React, JavaScript, Tailwind CSS, CSS3, NextUI.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
