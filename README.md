@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://associationsnow.com/wp-content/uploads/2016/01/0111_javascript.jpg"  />
+<img align="right" height="150" style="border-radiu: 5px" src="https://associationsnow.com/wp-content/uploads/2016/01/0111_javascript.jpg"  />
 
 ###
 
