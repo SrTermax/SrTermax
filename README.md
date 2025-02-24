@@ -8,12 +8,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trmxv9&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=w1redl4in&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+
+
 ## 🌍 Um pouco sobre mim
 Sou um desenvolvedor **full stack** que ama aprender e compartilhar tudo o que sei sobre o mundo da tecnologia. Estou sempre em busca de novos desafios e, claro, de novos códigos para escrever.  
 
 💻 Trabalhei em projetos utilizando **Next.js**, **React**, **Node.js**, e mais, mas ainda estou sempre me aprofundando em novas tecnologias.  
 
 Quer conhecer mais sobre o que já fiz? Dá uma olhada no meu portfólio: **[srtermax.com](https://srtermax.com/)**  
+
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
@@ -72,12 +83,6 @@ Eu adoro criar APIs eficientes que fazem toda a diferença nos projetos. Abaixo,
 
 ---
 
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=w1redl4in&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 ### 🐍 Snake Animation: Porque programador também tem estilo
