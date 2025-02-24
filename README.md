@@ -8,12 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trmxv9&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-
-
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=w1redl4in&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-
+![](https://github-profile-trophy.vercel.app/?username=Trmxv9&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌍 Um pouco sobre mim
 Sou um desenvolvedor **full stack** que ama aprender e compartilhar tudo o que sei sobre o mundo da tecnologia. Estou sempre em busca de novos desafios e, claro, de novos códigos para escrever.  
