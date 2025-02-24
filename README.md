@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trmxv9&locale=en&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-## 🏆GitHub Trophies
+## 🏆GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=Trmxv9&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌍 Um pouco sobre mim
@@ -19,7 +19,7 @@ Sou um desenvolvedor **full stack** que ama aprender e compartilhar tudo o que s
 Quer conhecer mais sobre o que já fiz? Dá uma olhada no meu portfólio: **[srtermax.com](https://srtermax.com/)**  
 
 
-### ✍️Random Dev Quote
+### ✍️ Citação aleatória de Dev
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
