@@ -72,5 +72,13 @@ Eu adoro criar APIs eficientes que fazem toda a diferença nos projetos. Abaixo,
 
 ---
 
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=w1redl4in&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+
 ### 🐍 Snake Animation: Porque programador também tem estilo
 <img src="https://raw.githubusercontent.com/TTVTheAgregado/TTVTheAgregado/output/snake.svg" alt="Snake animation" />
