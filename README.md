@@ -35,5 +35,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trmxv9/Trmxv9/output/snake.svg" alt="Snake animation"/>
+ <img src="https://raw.githubusercontent.com/TTVTheAgregado/TTVTheAgregado/output/snake.svg" alt="Snake animation"/>
 </div>
