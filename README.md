@@ -11,10 +11,6 @@ Criador do <strong>SrNodeTS</strong> e fundador da <strong>HadaGest.com</strong>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 </div>
 
----
-
-# 🌐 Identidade Visual
-
 <div align="center">
   <img src="https://img.shields.io/badge/SrTermax-Tech%20Creator-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Modern-black?style=for-the-badge" />
