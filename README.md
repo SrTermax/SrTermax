@@ -1,126 +1,175 @@
-<h1 align="center">🔥 SrTermax</h1>
-<h3 align="center">Full Stack Developer | Next.js • React • Node.js • APIs</h3>
+<h1 align="center">SrTermax</h1>
+<h3 align="center">Software Engineer | Go • Electron • Node.js • APIs • Systems</h3>
 
 <p align="center">
-Criador do <strong>SrNodeTS</strong> e fundador da <strong>HadaGest.com</strong>
+Criador de ferramentas open source, frameworks de alta performance e soluções completas para produção.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SrTermax-Tech%20Creator-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Modern-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HadaGest.com-Founder-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SrNodeTS-Creator-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-Engineer-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-High%20Performance-00ADD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge" />
 </div>
 
 ---
 
-# 📦 SrNodeTS (CLI Oficial)
+## Sobre
 
-<div align="center">
+Desenvolvedor focado em engenharia de software, performance e arquitetura limpa.  
+Atuação em sistemas web, APIs REST, aplicações desktop e ferramentas de linha de comando.  
 
-<img src="https://img.shields.io/npm/v/srnodets?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/npm/dt/srnodets?style=for-the-badge&color=green" />
-<img src="https://img.shields.io/github/license/SrTermax/Cli-srnodets?style=for-the-badge" />
+Criador dos projetos **SrFiberGo** e **SrNodeTS**, além de fundador da **HadaGest.com**.
 
-</div>
+---
 
-<div align="center">
-Criador do CLI mais rápido e direto para gerar projetos Node.js com TypeScript.
-</div>
+## Projetos Open Source
 
-### Instalação
+### SrFiberGo
+
+Framework profissional em Go baseado em Fiber para construção de APIs REST modernas.
+
+Características:
+- Estrutura modular
+- Middlewares prontos
+- Padronização enterprise
+- Alto desempenho
+- Baixo consumo de recursos
+
+Distribuição via NPM para integração simplificada.
 
 ```
+
+npx srfibergo create meu-projeto --port 8080
+
+```
+
+Pacote:
+https://www.npmjs.com/package/srfibergo
+
+---
+
+### SrNodeTS
+
+CLI para geração de projetos Node.js com TypeScript voltado para produção.
+
+Características:
+- Estrutura organizada
+- Tipagem forte
+- Configuração pronta
+- Foco em escalabilidade
+- Padrão profissional
+
+```
+
 npx srnodets meu-projeto
+
 ```
+
+Pacote:
+https://www.npmjs.com/package/srnodets
 
 ---
 
-# 🧠 Skills
+## Produto
+
+### HadaGest.com
+
+Plataforma completa para gestão de pequenos e médios negócios.
+
+Funcionalidades:
+- Atendimento via QR Code
+- Delivery integrado
+- Painel administrativo
+- Comunicação em tempo real
+- Aplicativo de motoboy
+- Controle total de pedidos
+
+Arquitetura orientada a desempenho, estabilidade e crescimento.
+
+## Stack Técnica
 
 <table>
   <tr>
+    <td align="center" width="33%">
+      <strong>Linguagens</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
+      <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Frontend</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
+    </td>
+  </tr>
+  <tr>
     <td align="center">
-      <h3>Core</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+      <strong>Desktop</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32" />
+      <img src="https://wails.io/img/wails-logo-horizontal-dark.svg" height="32" />
     </td>
     <td align="center">
-      <h3>Banco de Dados</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+      <strong>Banco de Dados</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" />
     </td>
     <td align="center">
-      <h3>Mobile e Desktop</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" />
+      <strong>Infraestrutura</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
     </td>
-    <td align="center">
-      <h3>Baixo Nível / CLI</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>Integrações</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="32" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="32" />
     </td>
   </tr>
 </table>
 
----
 
-# 🏢 Projetos Principais
 
-### 🔶 HadaGest.com
+## Filosofia de Código
 
-<div style="border: 1px solid #444; padding: 15px; border-radius: 10px;">
-Sistema completo para pequenos negócios com:
-
-* Atendimento por QR Code
-* Delivery avançado
-* Painel administrativo
-* Socket.IO em tempo real
-* Aplicativo de motoboy
-* Gestão completa de pedidos
-
-Desenvolvido para ser rápido, moderno e escalável.
-
-</div>
+- Código limpo
+- Arquitetura clara
+- Sem dependências desnecessárias
+- Foco em performance
+- Pronto para produção
+- Manutenível a longo prazo
 
 ---
 
-### 🔶 SrNodeTS
+## Presença Online
 
-<div style="border: 1px solid #444; padding: 15px; border-radius: 10px;">
-CLI profissional para gerar projetos Node.js + TypeScript em segundos.
-
-Produz código limpo, padrão e pronto para escalar.
-
-</div>
-
----
-
-# 📬 Contato
-
-<div align="left">
-  <a href="https://www.youtube.com/@SrTermax" target="_blank">YouTube</a> • 
-  <a href="https://instagram.com/srtermax/" target="_blank">Instagram</a> • 
-  <a href="https://discord.gg/rNAXhxN3hN" target="_blank">Discord</a> •
-   <a href="https://srtermax.com" target="_blank">Site Oficial</a>
-</div>
+Site: https://srtermax.com  
+Instagram: https://instagram.com/srtermax  
+Discord: https://discord.gg/rNAXhxN3hN  
 
 ---
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/TTVTheAgregado/TTVTheAgregado/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/TTVTheAgregado/TTVTheAgregado/output/snake.svg" />
 </div>
-
----
