@@ -1,48 +1,42 @@
 <h1 align="center">SrTermax</h1>
-<h3 align="center">Software Engineer | Go • Electron • Node.js • APIs • Systems</h3>
+<h3 align="center">Software Engineer — Go • Node.js • Electron • Systems</h3>
 
 <p align="center">
-Criador de ferramentas open source, frameworks de alta performance e soluções completas para produção.
+Open source developer focused on performance, clean architecture and production systems.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software-Engineer-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-High%20Performance-00ADD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems-Engineering-black?style=for-the-badge" />
 </div>
 
 ---
 
-## Sobre
+## About
 
-Desenvolvedor focado em engenharia de software, performance e arquitetura limpa.  
-Atuação em sistemas web, APIs REST, aplicações desktop e ferramentas de linha de comando.  
+Software engineer focused on **high performance systems**, **backend architecture** and **developer tooling**.
 
-Criador dos projetos **SrFiberGo** e **SrNodeTS**, além de fundador da **HadaGest.com**.
+Creator of:
+
+- **SrFiberGo** — Go framework for REST APIs  
+- **SrNodeTS** — Node.js + TypeScript project generator  
+- **HadaGest** — Business management platform
 
 ---
 
-## Projetos Open Source
+## Open Source
 
 ### SrFiberGo
 
-Framework profissional em Go baseado em Fiber para construção de APIs REST modernas.
-
-Características:
-- Estrutura modular
-- Middlewares prontos
-- Padronização enterprise
-- Alto desempenho
-- Baixo consumo de recursos
-
-Distribuição via NPM para integração simplificada.
+High performance API framework built with Go and Fiber.
 
 ```
 
@@ -50,21 +44,13 @@ npx srfibergo create meu-projeto --port 8080
 
 ```
 
-Pacote:
 https://www.npmjs.com/package/srfibergo
 
 ---
 
 ### SrNodeTS
 
-CLI para geração de projetos Node.js com TypeScript voltado para produção.
-
-Características:
-- Estrutura organizada
-- Tipagem forte
-- Configuração pronta
-- Foco em escalabilidade
-- Padrão profissional
+CLI for generating Node.js + TypeScript production-ready projects.
 
 ```
 
@@ -72,104 +58,81 @@ npx srnodets meu-projeto
 
 ```
 
-Pacote:
 https://www.npmjs.com/package/srnodets
 
 ---
 
-## Produto
+## Product
 
-### HadaGest.com
+### HadaGest
 
-Plataforma completa para gestão de pequenos e médios negócios.
+Platform for small and medium business management.
 
-Funcionalidades:
-- Atendimento via QR Code
-- Delivery integrado
-- Painel administrativo
-- Comunicação em tempo real
-- Aplicativo de motoboy
-- Controle total de pedidos
+Features:
 
-Arquitetura orientada a desempenho, estabilidade e crescimento.
+- QR Code ordering
+- Delivery integration
+- Real-time communication
+- Admin dashboard
+- Order management
 
-## Stack Técnica
+https://hadagest.com
+
+---
+
+## Tech Stack
 
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>Linguagens</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" />
-      <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Desktop</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32" />
-      <img src="https://wails.io/img/wails-logo-horizontal-dark.svg" height="32" />
-    </td>
-    <td align="center">
-      <strong>Banco de Dados</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" />
-    </td>
-    <td align="center">
-      <strong>Infraestrutura</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <strong>Integrações</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="32" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="32" />
-    </td>
-  </tr>
+<tr>
+<td align="center"><strong>Languages</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+</td>
+
+<td align="center"><strong>Backend</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+<img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
+</td>
+
+<td align="center"><strong>Frontend</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>Desktop</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32"/>
+<img src="https://wails.io/img/wails-logo-horizontal-dark.svg" height="32"/>
+</td>
+
+<td align="center"><strong>Databases</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32"/>
+</td>
+
+<td align="center"><strong>Infra</strong><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+</td>
+</tr>
 </table>
 
-
-
-## Filosofia de Código
-
-- Código limpo
-- Arquitetura clara
-- Sem dependências desnecessárias
-- Foco em performance
-- Pronto para produção
-- Manutenível a longo prazo
-
 ---
 
-## Presença Online
+## Links
 
-Site: https://srtermax.com  
-Instagram: https://instagram.com/srtermax  
-Discord: https://discord.gg/rNAXhxN3hN  
+Website  
+https://srtermax.com
 
----
+Instagram  
+https://instagram.com/srtermax
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TTVTheAgregado/TTVTheAgregado/output/snake.svg" />
-</div>
+Discord  
+https://discord.gg/rNAXhxN3hN
