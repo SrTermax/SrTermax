@@ -1,138 +1,159 @@
-<h1 align="center">SrTermax</h1>
-<h3 align="center">Software Engineer — Go • Node.js • Electron • Systems</h3>
-
-<p align="center">
-Open source developer focused on performance, clean architecture and production systems.
-</p>
-
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-High%20Performance-00ADD8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems-Engineering-black?style=for-the-badge" />
+```
+███████╗██████╗ ████████╗███████╗██████╗ ███╗   ███╗ █████╗ ██╗  ██╗
+██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██╔══██╗╚██╗██╔╝
+███████╗██████╔╝   ██║   █████╗  ██████╔╝██╔████╔██║███████║ ╚███╔╝ 
+╚════██║██╔══██╗   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══██║ ██╔██╗ 
+███████║██║  ██║   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██╔╝ ██╗
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+**Software Engineer — Go · Node.js · Electron · Systems**
+
+*Building fast, clean, production-grade systems.*
+
+[![Website](https://img.shields.io/badge/srtermax.com-000000?style=flat-square&logo=safari&logoColor=white)](https://srtermax.com)
+[![npm](https://img.shields.io/badge/npm-srtermax-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/~srtermax)
+[![Instagram](https://img.shields.io/badge/@srtermax-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/srtermax)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/rNAXhxN3hN)
+
 </div>
 
 ---
 
 ## About
 
-Software engineer focused on **high performance systems**, **backend architecture** and **developer tooling**.
+Engineer focused on **high-performance backends**, **developer tooling** and **desktop apps**.  
+I build things that are fast by design and boring to maintain — in the best way possible.
 
-Creator of:
-
-- **SrFiberGo** — Go framework for REST APIs  
-- **SrNodeTS** — Node.js + TypeScript project generator  
-- **HadaGest** — Business management platform
+- 🦫 &nbsp;Daily driver: **Go** for anything performance-critical  
+- 🟩 &nbsp;**Node.js + TypeScript** for APIs and CLI tools  
+- 🖥️ &nbsp;**Electron / Wails** for cross-platform desktop  
+- 📦 &nbsp;Open source first — tools I'd want to use myself
 
 ---
 
 ## Open Source
 
-### SrFiberGo
+### ⚡ SrFiberGo
 
-High performance API framework built with Go and Fiber.
+> High-performance REST API framework built on top of [Fiber](https://gofiber.io/).
 
+```bash
+npx srfibergo create my-api --port 8080
 ```
 
-npx srfibergo create meu-projeto --port 8080
+- Opinionated project structure out of the box  
+- Fiber-based routing with zero-overhead abstractions  
+- Production-ready from day one
 
-```
-
-https://www.npmjs.com/package/srfibergo
+[![npm](https://img.shields.io/npm/v/srfibergo?style=flat-square&color=00ADD8&label=srfibergo)](https://www.npmjs.com/package/srfibergo)
 
 ---
 
-### SrNodeTS
+### 🔷 SrNodeTS
 
-CLI for generating Node.js + TypeScript production-ready projects.
+> CLI generator for Node.js + TypeScript production projects.
 
+```bash
+npx srnodets my-project
 ```
 
-npx srnodets meu-projeto
+- Pre-configured TypeScript, linting, and folder structure  
+- Gets you from zero to coding in seconds  
+- Skip the boilerplate, ship faster
 
-```
-
-https://www.npmjs.com/package/srnodets
+[![npm](https://img.shields.io/npm/v/srnodets?style=flat-square&color=339933&label=srnodets)](https://www.npmjs.com/package/srnodets)
 
 ---
 
 ## Product
 
-### HadaGest
+### 🏪 HadaGest
 
-Platform for small and medium business management.
+> Business management platform for small and medium businesses.
 
-Features:
+[![hadagest.com](https://img.shields.io/badge/hadagest.com-visit-black?style=flat-square)](https://hadagest.com)
 
-- QR Code ordering
-- Delivery integration
-- Real-time communication
-- Admin dashboard
-- Order management
-
-https://hadagest.com
+| Feature | Status |
+|---|---|
+| QR Code ordering | ✅ Live |
+| Delivery integration | ✅ Live |
+| Real-time communication | ✅ Live |
+| Admin dashboard | ✅ Live |
+| Order management | ✅ Live |
 
 ---
 
-## Tech Stack
+## Stack
 
 <table>
-<tr>
-<td align="center"><strong>Languages</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
-</td>
+  <tr>
+    <td valign="top" width="33%">
 
-<td align="center"><strong>Backend</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-<img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32"/>
-</td>
+**Languages**
+```
+Go          ████████████  primary
+TypeScript  █████████░░░  daily
+JavaScript  ████████░░░░  daily
+C++         █████░░░░░░░  systems
+Python      ████░░░░░░░░  scripts
+```
 
-<td align="center"><strong>Frontend</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32"/>
-</td>
-</tr>
+  </td>
+  <td valign="top" width="33%">
 
-<tr>
-<td align="center"><strong>Desktop</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32"/>
-<img src="https://wails.io/img/wails-logo-horizontal-dark.svg" height="32"/>
-</td>
+**Backend & Desktop**
+- Go + Fiber
+- Node.js + Express
+- Electron
+- Wails
 
-<td align="center"><strong>Databases</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32"/>
-</td>
+**Databases**
+- MongoDB · MySQL · SQLite
 
-<td align="center"><strong>Infra</strong><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-</td>
-</tr>
+  </td>
+  <td valign="top" width="33%">
+
+**Frontend**
+- React + Next.js
+- Tailwind CSS
+
+**Infra**
+- Linux
+- Git
+
+  </td>
+  </tr>
 </table>
 
 ---
 
-## Links
+## Stats
 
-Website  
-https://srtermax.com
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=srtermax&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtermax&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
 
-Instagram  
-https://instagram.com/srtermax
+---
 
-Discord  
-https://discord.gg/rNAXhxN3hN
+## Let's connect
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 🌐 Dev | [astflye.com](https://astflye.com) |
+| 📦 npm | [npmjs.com/~srtermax](https://www.npmjs.com/~trmxv9) |
+| 📸 Instagram | [@srtermax](https://instagram.com/srtermax) |
+| 💬 Discord | [Join the server](https://discord.gg/rNAXhxN3hN) |
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with Go, caffeine, and a deep hatred for slow software.</sub>
+</div>
