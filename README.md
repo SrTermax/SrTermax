@@ -13,8 +13,8 @@
 
 *Building fast, clean, production-grade systems.*
 
-[![Website](https://img.shields.io/badge/srtermax.com-000000?style=flat-square&logo=safari&logoColor=white)](https://srtermax.com)
-[![npm](https://img.shields.io/badge/npm-srtermax-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/~srtermax)
+[![Website](https://img.shields.io/badge/astflye.com-000000?style=flat-square&logo=safari&logoColor=white)](https://astflye.com)
+[![npm](https://img.shields.io/badge/npm-srtermax-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/~trmxv9)
 [![Instagram](https://img.shields.io/badge/@srtermax-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/srtermax)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/rNAXhxN3hN)
 
