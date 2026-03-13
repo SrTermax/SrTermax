@@ -41,7 +41,7 @@ I build things that are fast by design and boring to maintain — in the best wa
 > High-performance REST API framework built on top of [Fiber](https://gofiber.io/).
 
 ```bash
-npx srfibergo create my-api --port 8080
+npx srfibergo create my-project
 ```
 
 - Opinionated project structure out of the box  
