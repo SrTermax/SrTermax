@@ -3,7 +3,7 @@
 <p align="center">
   
   <a href="https://komarev.com/ghpvc/?username=SrTermax">
-    <img src="https://komarev.com/ghpvc/?username=SrTermax&label=Profile%20views&color=00FFFF&style=flat-square" alt="SrTermax's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=SrTermax&label=Profile%20views&color=FF0000&style=flat-square" alt="SrTermax's profile views" />
   </a>
   
   <a href="https://www.npmjs.com/~trmxv9">
