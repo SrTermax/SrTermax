@@ -1,132 +1,116 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=SrTermax&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+# SrTermax
 
-<p align="center">
-  
-  <a href="https://komarev.com/ghpvc/?username=SrTermax">
-    <img src="https://komarev.com/ghpvc/?username=SrTermax&label=Profile%20views&color=FF0000&style=flat-square" alt="SrTermax's profile views" />
-  </a>
-  
-  <a href="https://www.npmjs.com/~trmxv9">
-    <img src="https://img.shields.io/badge/npm-srtermax-CB3837?style=flat-square&logo=npm" alt="Npm" />
-  </a>
-</p>
+Software Engineer focused on backend systems, performance, and developer tools.
 
-<p align="center"><a href="https://www.linkedin.com/in/srtermax/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/SrTermax" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.youtube.com/@MrTermax" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://astflye.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/SrTermax" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=SrTermax&style=flat&color=555555)](https://github.com/SrTermax)
+[![npm](https://img.shields.io/badge/npm-packages-CB3837?style=flat&logo=npm)](https://www.npmjs.com/~trmxv9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/srtermax/)
+[![Website](https://img.shields.io/badge/Website-astflye.com-111111?style=flat&logo=googlechrome&logoColor=white)](https://astflye.com)
 
 ---
 
-## 📌 About Me
+## About
 
-Engineer focused on **high-performance backends**, **developer tooling** and **desktop apps**.  
-I build things that are fast by design and boring to maintain — in the best way possible.
+I build software with a focus on performance, maintainability, and practical engineering.
 
-- 🦫 &nbsp;Daily driver: **Go** for anything performance-critical  
-- 🟩 &nbsp;**Node.js + TypeScript** for APIs and CLI tools  
-- 🖥️ &nbsp;**Electron / Wails** for cross-platform desktop  
-- 📦 &nbsp;Open source first — tools I'd want to use myself
+- **Backend:** Go, Node.js, TypeScript, REST APIs
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+- **Desktop:** Electron, Wails
+- **Databases:** MongoDB, MySQL, SQLite
+- **Interests:** System design, developer tooling, performance optimization, and open source
 
----
+## Projects
 
-## Open Source
+### Open Source
 
-### ⚡ SrFiberGo
+**[SrFiberGo](https://www.npmjs.com/package/srfibergo)**
 
-> High-performance REST API framework built on top of [Fiber](https://gofiber.io/).
+A project scaffolding CLI for building REST APIs with Go and Fiber.
 
 ```bash
 npx srfibergo create my-project
 ```
 
-- Opinionated project structure out of the box  
-- Fiber-based routing with zero-overhead abstractions  
-- Production-ready from day one
+[![npm](https://img.shields.io/npm/v/srfibergo?style=flat-square&color=555555)](https://www.npmjs.com/package/srfibergo)
 
-[![npm](https://img.shields.io/npm/v/srfibergo?style=flat-square&color=00ADD8&label=srfibergo)](https://www.npmjs.com/package/srfibergo)
+**[SrNodeTS](https://www.npmjs.com/package/srnodets)**
 
----
-
-### 🔷 SrNodeTS
-
-> CLI generator for Node.js + TypeScript production projects.
+A CLI tool for generating structured Node.js and TypeScript projects.
 
 ```bash
 npx srnodets my-project
 ```
 
-- Pre-configured TypeScript, linting, and folder structure  
-- Gets you from zero to coding in seconds  
-- Skip the boilerplate, ship faster
+[![npm](https://img.shields.io/npm/v/srnodets?style=flat-square&color=555555)](https://www.npmjs.com/package/srnodets)
 
-[![npm](https://img.shields.io/npm/v/srnodets?style=flat-square&color=339933&label=srnodets)](https://www.npmjs.com/package/srnodets)
+**[Conversor de Figma para Lua MTA](https://github.com/SrTermax/Conversor-de-Figma-para-Lua-MTA)**
+
+An open-source Figma plugin that converts UI designs into Lua code for Multi Theft Auto: San Andreas.
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github)](https://github.com/SrTermax/Conversor-de-Figma-para-Lua-MTA)
+
+### Products
+
+**[HadaGest](https://hadagest.com)**
+
+A business management platform designed to simplify operations, orders, and customer interactions.
+
+**[Astflye](https://astflye.com)**
+
+A digital platform focused on gaming-related products and services.
+
+## Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Frontend & Desktop**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SrTermax&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=SrTermax&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrTermax&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
+</p>
 
 ---
 
-## Product
-
-### 🏪 HadaGest
-
-> Business management platform for small and medium businesses.
-
-[![hadagest.com](https://img.shields.io/badge/hadagest.com-visit-black?style=flat-square)](https://hadagest.com)
-
-| Feature | Status |
-|---|---|
-| QR Code ordering | ✅ Live |
-| Delivery integration | ✅ Live |
-| Real-time communication | ✅ Live |
-| Admin dashboard | ✅ Live |
-| Order management | ✅ Live |
-
----
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/SrTermax">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SrTermax&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="SrTermax's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=SrTermax&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="SrTermax's GitHub Streak" width="49%" />
+  <a href="https://www.buymeacoffee.com/SrTermax">Support my open-source work</a>
+  ·
+  <a href="https://x.com/SrTermax">X</a>
+  ·
+  <a href="https://www.youtube.com/@MrTermax">YouTube</a>
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=SrTermax&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SrTermax's GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" />
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/SrTermax">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrTermax&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
