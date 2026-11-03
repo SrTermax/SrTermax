@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/srtermax/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/SrTermax"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.youtube.com/@MrTermax"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@Sr.Termax"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.npmjs.com/~trmxv9"><img src="https://img.shields.io/badge/npm-packages-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"></a>
   <a href="https://github.com/SrTermax"><img src="https://komarev.com/ghpvc/?username=SrTermax&style=flat&color=cdf349&label=profile+views" alt="Profile views"></a>
 </p>
